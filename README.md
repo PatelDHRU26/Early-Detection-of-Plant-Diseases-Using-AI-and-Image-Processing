@@ -37,7 +37,7 @@ This AI-powered application helps farmers, gardeners, and agricultural professio
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/PatelDHRU26/Early-Detection-of-Plant-Diseases-Using-AI-and-Image-Processing.git>
    cd plant-disease-detection
    ```
 
@@ -246,7 +246,7 @@ For questions, support, or collaboration:
 - 📧 Email: contact@plantdiseaseai.com
 - 🌐 Website: www.plantdiseaseai.com
 - 📱 Phone: +1 (555) 123-4567
-- 🐛 Issues: [GitHub Issues](https://github.com/your-repo/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/PatelDHRU26/Early-Detection-of-Plant-Diseases-Using-AI-and-Image-Processing.git)
 
 ## 📄 License
 
