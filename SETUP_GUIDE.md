@@ -14,7 +14,7 @@ This guide will help you set up and run the Plant Disease Detection application.
 
 **Option A: Using Git**
 ```bash
-git clone <repository-url>
+git clone <https://github.com/PatelDHRU26/Early-Detection-of-Plant-Diseases-Using-AI-and-Image-Processing.git>
 cd plant-disease-detection
 ```
 
